@@ -6,7 +6,7 @@ Soy estadístico graduado de la Universidad Nacional de Colombia y actualmente d
 
 ## Experiencia y Habilidades
 
-Poseo una sólida base en la recolección, procesamiento, modelación y análisis estadístico de datos. Mi experiencia incluye la interpretación y presentación de resultados. Destaco por mi manejo avanzado de diversos programas estadísticos y lenguajes de programación, especialmente en R y Python. Mi trayectoria laboral se ha centrado en la aplicación de la estadística en campos como la salud pública, la biología y las tecnologías de la información.
+Poseo conocimiento en la recolección, procesamiento, modelación y análisis estadístico de datos. Mi trayectoria laboral se ha centrado en la aplicación de la estadística en campos como la salud pública, la biología y las tecnologías de la información.
 
 ### Lenguajes de Programación
 
