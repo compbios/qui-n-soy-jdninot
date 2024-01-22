@@ -2,7 +2,7 @@
 
 ## Resumen
 
-Soy un estadístico graduado de la Universidad Nacional de Colombia y actualmente desempeño el rol de asistente de investigación y estudiante de maestría en Bioestadística en el Departamento de Epidemiología Clínica y Bioestadística de la Pontificia Universidad Javeriana.
+Soy estadístico graduado de la Universidad Nacional de Colombia y actualmente desempeño el rol de asistente de investigación y estudiante de maestría en Bioestadística en el Departamento de Epidemiología Clínica y Bioestadística de la Pontificia Universidad Javeriana.
 
 ## Experiencia y Habilidades
 
