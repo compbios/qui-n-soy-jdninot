@@ -1,4 +1,4 @@
-# Perfil: David Niño - Torres
+# Perfil: David Niño
 
 ## Resumen
 
@@ -10,10 +10,11 @@ Poseo conocimiento en la recolección, procesamiento, modelación y análisis es
 
 ### Lenguajes de Programación
 
-- R (Basico)
-- Python (Basico)
-- SAS (Basico)
-- STATA (Basico)
+| Lenguaje | Nivel |
+|-----:|-----------|
+| R | Intermedio |
+| Python | Básico |
+| SAS | Básico |
 
 ## Intereses
 
