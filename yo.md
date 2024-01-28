@@ -15,8 +15,8 @@ Poseo conocimiento en la recolección, procesamiento, modelación y análisis es
 | R | Intermedio |
 | Python | Básico |
 | SAS | Básico |
-|STATA | ? |
-|Julia | ? |
+|STATA | Básico |
+|Julia | En algun momento empezaré aprender |
 
 ## Intereses
 
