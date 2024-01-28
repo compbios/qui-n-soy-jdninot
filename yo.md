@@ -2,19 +2,21 @@
 
 ## Resumen
 
-Soy estadístico graduado de la Universidad Nacional de Colombia y actualmente desempeño el rol de asistente de investigación y estudiante de maestría en Bioestadística en el Departamento de Epidemiología Clínica y Bioestadística de la Pontificia Universidad Javeriana.
+Soy estadístico graduado de la [Universidad Nacional de Colombia](https://unal.edu.co/) y actualmente desempeño el rol de asistente de investigación y estudiante de maestría en Bioestadística en el Departamento de Epidemiología Clínica y Bioestadística de la Pontificia Universidad Javeriana.
 
 ## Experiencia y Habilidades
 
 Poseo conocimiento en la recolección, procesamiento, modelación y análisis estadístico de datos. Mi trayectoria laboral se ha centrado en la aplicación de la estadística en campos como la salud pública, la biología y las tecnologías de la información.
 
-### Lenguajes de Programación
+### Lenguajes de Programación :computer:
 
 | Lenguaje | Nivel |
 |-----:|-----------|
 | R | Intermedio |
 | Python | Básico |
 | SAS | Básico |
+|STATA | ? |
+|Julia | ? |
 
 ## Intereses
 
